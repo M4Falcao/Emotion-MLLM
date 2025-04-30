@@ -1,3 +1,8 @@
+# NOTES
+
+
+
+
 # KokoMind 
 
 [![License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/CHATS-lab/KokoMind/blob/main/LICENSE)
